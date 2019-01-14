@@ -1,7 +1,7 @@
 datasets
 *.hdf5
 *.csv
-*.txt
+badtrainingdata.txt
 __pycache__
 extract-faces
 haarcascade
